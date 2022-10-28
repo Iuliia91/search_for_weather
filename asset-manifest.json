@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/search_for_weather/static/js/main.46e01589.js",
+    "static/js/787.13d76ca7.chunk.js": "/search_for_weather/static/js/787.13d76ca7.chunk.js",
+    "static/media/Montserrat.ttf": "/search_for_weather/static/media/Montserrat.3faa3eef13649db02044.ttf",
+    "static/media/mountains.svg": "/search_for_weather/static/media/mountains.d7afc00cdc62af8a4b48e6a76b5ffd73.svg",
+    "index.html": "/search_for_weather/index.html",
+    "main.46e01589.js.map": "/search_for_weather/static/js/main.46e01589.js.map",
+    "787.13d76ca7.chunk.js.map": "/search_for_weather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.46e01589.js"
+  ]
+}
